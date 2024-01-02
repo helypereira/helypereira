@@ -14,7 +14,7 @@
 ### 🚀 Main Stack
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/ffd9498592a5e4f03800cf4b5dc972ff58da69af9c74462bc2d1edc17edacfa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d77686974653f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d344541393442">
-  <img alt="MontoDB">
+  <img alt="MongoDB">
 </picture>
 
 <picture>
