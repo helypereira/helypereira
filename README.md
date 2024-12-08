@@ -1,35 +1,25 @@
 # 🌟 Hello! I'm Hely Pereira Almeida 👋
-
 ### 🧑‍💻 Web Developer and Designer passionate about transforming ideas into innovative and efficient digital solutions. 🚀
 
-Welcome to my GitHub profile, where creativity and technology come together to build tools that make a difference. My focus is on developing robust, scalable, and user-centered applications. Let’s build something amazing together!
-
-<a href="https://github.com/helypereira/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helypereira&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/helypereira/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=helypereira" />
-</a>
+
+🌟 Why there’s still little here:
+Many of my projects have been for clients or private work that I cannot share publicly. However, I’m focused on documenting and sharing high-quality code in new projects to showcase my skills.
+
+🚀 What’s coming soon:
+My portfolio will include detailed examples of automation, web development, and practical cases that highlight my style and expertise as a developer.
 
 ---
 
 ## 🛠️ **Key Technologies**
 
 ### 🔷 **Frontend**
-- **React.js** - Building dynamic and modern interfaces.
-- **HTML5 & CSS3** - Responsive and optimized design.
-- **JavaScript** - Interactive logic for the web.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ### 🔷 **Backend**
-- **Node.js** - Developing fast and scalable servers.
-- **Express.js** - Efficient RESTful APIs.
-- **MongoDB & MySQL** - Database modeling and management.
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql)](https://skillicons.dev)
 
 ---
-
-## 🚀 **About Me**
-
-I am a professional with experience in projects ranging from enterprise applications to personalized solutions. My focus is on **understanding client needs** and delivering technological solutions that provide tangible value.
 
 ## 🤝 **Let’s Collaborate**
 
@@ -39,9 +29,10 @@ I’m looking for:
 - 🚀 Startups seeking technological solutions.
 
 ### 📬 **Contact Me**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hely-pereira/)
-- 📄 [Portfolio/Resume](https://helypereira.github.io/)
-- 📷 [Instagram](https://www.instagram.com/hely._.alm/)
+<a href="malito:almeidahely@gmail.com" target="__blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/hely-pereira/" target="__blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="[google.com](https://www.instagram.com/hely._.alm/)" target="__blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://helypereira.github.io/" target="__blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
 ---
 
