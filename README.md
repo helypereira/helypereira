@@ -4,6 +4,13 @@
 
 Welcome to my GitHub profile, where creativity and technology come together to build tools that make a difference. My focus is on developing robust, scalable, and user-centered applications. Let’s build something amazing together!
 
+<a href="https://github.com/helypereira/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helypereira&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/helypereira/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=helypereira" />
+</a>
+
 ---
 
 ## 🛠️ **Key Technologies**
