@@ -1,7 +1,8 @@
-# 🌟 Hello! I'm Hely Pereira Almeida 👋
+# 🌟 Hello! I'm Hely Pereira 👋
+
 ### 🧑‍💻 Web Developer and Designer passionate about transforming ideas into innovative and efficient digital solutions. 🚀
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helypereira&layout=compact&langs_count=8&card_width=320" />
+  <img align="center" src="https://quanta-minds.com/crm/media/github-hely-background.jpg?_t=1733677883" />
 
 🌟 Why there’s still little here:
 Many of my projects have been for clients or private work that I cannot share publicly. However, I’m focused on documenting and sharing high-quality code in new projects to showcase my skills.
@@ -35,7 +36,6 @@ I’m looking for:
 <a href="https://www.linkedin.com/in/hely-pereira/" target="__blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/hely._.alm/" target="__blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://helypereira.github.io/" target="__blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-
 ---
 
 ✨ **“Technology shouldn’t just work, it should inspire.”**  
