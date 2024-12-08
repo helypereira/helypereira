@@ -14,6 +14,8 @@ My portfolio will include detailed examples of automation, web development, and 
 
 ## 🛠️ **Key Technologies**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helypereira&hide_progress=true)
+
 ### 🔷 **Frontend**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
